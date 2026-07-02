@@ -8461,3 +8461,8 @@ coolmathgames.com
 ||fra-1.veck.io^$important
 ||veck.io^$important
 ||www.stumbleguys.com^$important
+||cookie-clicker2.com^$important
+||cookieclicker.com^$important
+||www.opautoclicker.com^$important
+||circleclicker.com^$important
+||cookieclickernew.com^$important
